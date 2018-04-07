@@ -1,8 +1,8 @@
 {
-    "id": "9482bfdf-1417-422b-870b-3467ff8871ea",
+    "id": "cd8d7fed-4bf9-4fa4-8e7e-91b98b7f6e74",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "wind_bullet",
+    "name": "Brainoutlineobj",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1c75cee3-753d-46c9-b38f-aaf3f92ad16d",
+    "spriteId": "12c310dd-7f1d-4e09-bba6-d61c7952bb0f",
     "visible": true
 }

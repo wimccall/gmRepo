@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "12c310dd-7f1d-4e09-bba6-d61c7952bb0f",
+            "Value": {
+                "id": "4b161c7a-4002-4524-a79c-91cd621d540f",
+                "resourcePath": "sprites\\Brainoutlinesprite\\Brainoutlinesprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b8f92b1-c114-4f37-b666-ac6eb26ae7e7",
             "Value": {
                 "id": "ca67e71b-886f-455b-8040-6bbbbc3db702",
@@ -52,6 +60,14 @@
                 "id": "1a2711fa-b82d-400f-b758-66894a90b20f",
                 "resourcePath": "objects\\Player_object\\Player_object.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c75cee3-753d-46c9-b38f-aaf3f92ad16d",
+            "Value": {
+                "id": "7b16e08c-e75a-42fc-aca6-4d0823c3f166",
+                "resourcePath": "sprites\\wind_bullet1\\wind_bullet1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -92,6 +108,22 @@
                 "id": "6ea51758-3e87-403f-ae41-c7907b693c01",
                 "resourcePath": "views\\321e2209-37a2-40e5-98c2-667bc941b878.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35615fa6-d407-413c-b25f-a6ff7398418a",
+            "Value": {
+                "id": "722eac87-7443-4f06-8ea6-89eb67fdd3a1",
+                "resourcePath": "sprites\\enemy1\\enemy1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3a8aaa4e-0294-4a1a-9142-630a4d1517ac",
+            "Value": {
+                "id": "9a998043-4c16-4775-ab43-72ce60dc586c",
+                "resourcePath": "objects\\wind_man\\wind_man.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +183,14 @@
             }
         },
         {
+            "Key": "9482bfdf-1417-422b-870b-3467ff8871ea",
+            "Value": {
+                "id": "d26a1e7b-fa4b-4efd-9b55-a0e6394c5a1b",
+                "resourcePath": "objects\\wind_bullet\\wind_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a0d106a8-ee8d-45a6-b1a4-1b18fae15708",
             "Value": {
                 "id": "7005d91c-c104-4b38-b8c2-cf9b74054c12",
@@ -180,6 +220,14 @@
                 "id": "7ec7f823-c490-4c7b-a349-550657409058",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd8d7fed-4bf9-4fa4-8e7e-91b98b7f6e74",
+            "Value": {
+                "id": "24557900-7526-4608-89e2-97b087fbb137",
+                "resourcePath": "objects\\Brainoutlineobj\\Brainoutlineobj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

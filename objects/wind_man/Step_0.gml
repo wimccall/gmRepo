@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 var targetAngle = point_direction(id.x, id.y, player.x, player.y);
+targetAngle = (targetAngle + 180) % 360;
 var rotationSpeed = 1;
 var angleDif = angle_difference(image_angle, targetAngle);
 var attemptedRotation = (sign(angleDif) * rotationSpeed);
@@ -18,7 +19,7 @@ else {
 	inst = instance_create_depth(x, y, -1000, wind_bullet);
 	with(inst) {
 		speed = other.shoot_speed;
-		direction = (other.image_angle + 180) % 360;
+		direction = (other.image_angle);
 		image_angle = other.image_angle;
 	}
 }
