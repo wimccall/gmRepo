@@ -1,3 +1,7 @@
-/// @move left
-// You can write your code in this editor
+if wax <= 0 {
+	x = (x-0) 
+}
+
+else
+
 x = (x-5);

@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "024177c6-354d-46ab-8032-ece1ebcd9b88",
+            "Value": {
+                "id": "daf5749b-71cb-4ae0-aed2-d911f5b02f28",
+                "resourcePath": "objects\\Waxspwner\\Waxspwner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12c310dd-7f1d-4e09-bba6-d61c7952bb0f",
             "Value": {
                 "id": "4b161c7a-4002-4524-a79c-91cd621d540f",
                 "resourcePath": "sprites\\Brainoutlinesprite\\Brainoutlinesprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19586710-8a59-4cd2-bbc3-a5c28a4104d4",
+            "Value": {
+                "id": "a66ad4d5-fab2-44a9-9935-477dd52aaffe",
+                "resourcePath": "rooms\\room3\\room3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -164,6 +180,14 @@
                 "id": "d8018644-95f2-4013-983c-85610ace0f23",
                 "resourcePath": "views\\7f9492ee-966b-4730-839f-46c41455fbe6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "807a06c0-30d8-4852-9c93-50a92fcbd94e",
+            "Value": {
+                "id": "c4203091-cc99-4e6a-8544-308811176e00",
+                "resourcePath": "objects\\Waxbarobj\\Waxbarobj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
