@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "027ebbaa-55ae-4281-9ac8-f25e7886fee2",
-            "Value": {
-                "id": "37a6ab55-179e-4f76-b994-d1f4a0226bd4",
-                "resourcePath": "objects\\object1\\object1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "1b8f92b1-c114-4f37-b666-ac6eb26ae7e7",
             "Value": {
                 "id": "ca67e71b-886f-455b-8040-6bbbbc3db702",
@@ -55,6 +47,14 @@
             }
         },
         {
+            "Key": "1c3ab626-e996-4c7a-b380-b4941831cb69",
+            "Value": {
+                "id": "1a2711fa-b82d-400f-b758-66894a90b20f",
+                "resourcePath": "objects\\Player_object\\Player_object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "231b3df6-239e-4628-a0f2-c16202584238",
             "Value": {
                 "id": "9e3a3756-c0f8-423a-a872-22a06c94f207",
@@ -63,11 +63,19 @@
             }
         },
         {
-            "Key": "25e5cbde-90bb-4e94-854c-9e1beb0c2d3d",
+            "Key": "25b9f7ef-fabd-4d72-9b9b-cd5e7cad1dc7",
             "Value": {
-                "id": "17656509-b98e-41e4-a33b-c69b18b664dc",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
-                "resourceType": "GMSprite"
+                "id": "54558a42-8676-4c53-bf2e-837758dac8f7",
+                "resourcePath": "objects\\Morewax_obj\\Morewax_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2604beb9-9a9d-4f6b-863e-947e6f4c3104",
+            "Value": {
+                "id": "677bdde9-8195-43c0-b633-912619b71629",
+                "resourcePath": "rooms\\Room2\\Room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -87,11 +95,11 @@
             }
         },
         {
-            "Key": "3a8aaa4e-0294-4a1a-9142-630a4d1517ac",
+            "Key": "3c63df6d-880c-4d1c-8a3a-22394fc341fd",
             "Value": {
-                "id": "b56cf253-992c-48ab-a74f-b8263b043c58",
-                "resourcePath": "objects\\enemy1\\enemy1.yy",
-                "resourceType": "GMObject"
+                "id": "f66da1c5-f136-4134-b2c8-539e6ec3ac64",
+                "resourcePath": "sprites\\flame_sprite\\flame_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,14 +151,6 @@
             }
         },
         {
-            "Key": "97eb0a12-340f-4100-bc73-86c55aadf591",
-            "Value": {
-                "id": "38524a33-9799-4268-beae-c59ba84baedc",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a0d106a8-ee8d-45a6-b1a4-1b18fae15708",
             "Value": {
                 "id": "7005d91c-c104-4b38-b8c2-cf9b74054c12",
@@ -175,14 +175,6 @@
             }
         },
         {
-            "Key": "cb94d209-832f-49a6-ac17-cfce508734d7",
-            "Value": {
-                "id": "57fcf57c-3d5c-4966-8e5d-2f58ce2ab173",
-                "resourcePath": "sprites\\butt\\butt.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7ec7f823-c490-4c7b-a349-550657409058",
@@ -191,18 +183,10 @@
             }
         },
         {
-            "Key": "d6280f15-52d6-4dd8-80fe-c5b61144a643",
+            "Key": "cffe5be5-33ed-4109-bfbf-c5028a111b29",
             "Value": {
-                "id": "c6fe2fde-03c0-48b2-9861-1b43ce65cdab",
-                "resourcePath": "objects\\wind_bullet\\wind_bullet.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ecf7646b-29a0-47a5-a6b2-a90731f1f2cd",
-            "Value": {
-                "id": "c6ea9787-60bd-45aa-a28a-56e8fa09dba0",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "id": "d7a41d3e-5147-48a4-915b-43eb49e63c43",
+                "resourcePath": "sprites\\Morewax_sprite\\Morewax_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
