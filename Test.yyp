@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "294d4cbb-b5f7-4e33-b8c9-80144eec6116",
+            "Value": {
+                "id": "9ccb5dfc-bdc0-4bd6-8ce1-41af7640b635",
+                "resourcePath": "objects\\negativethoughtsobj\\negativethoughtsobj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "321e2209-37a2-40e5-98c2-667bc941b878",
             "Value": {
                 "id": "6ea51758-3e87-403f-ae41-c7907b693c01",
@@ -196,6 +204,14 @@
                 "id": "40d382a0-be14-425a-8b7e-76d9e37e0423",
                 "resourcePath": "views\\85c82920-60eb-4d2c-8a17-95af00e9b2fa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c606b6a-f3d3-4f54-8892-032ee709064d",
+            "Value": {
+                "id": "08545170-ed8d-4eee-a0bf-faff4a3aab53",
+                "resourcePath": "sprites\\Negativethoughts\\Negativethoughts.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
