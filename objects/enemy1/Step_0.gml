@@ -16,8 +16,9 @@ else {
 	shoot_timer = FRAMES_BETWEEN_SHOTS;
 	var inst;
 	inst = instance_create_depth(x, y, -1000, wind_bullet);
-	with(inst){
+	with(inst) {
 		speed = other.shoot_speed;
 		direction = (other.image_angle + 180) % 360;
+		image_angle = other.image_angle;
 	}
 }
