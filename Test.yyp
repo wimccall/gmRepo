@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1c75cee3-753d-46c9-b38f-aaf3f92ad16d",
+            "Value": {
+                "id": "7b16e08c-e75a-42fc-aca6-4d0823c3f166",
+                "resourcePath": "sprites\\wind_bullet1\\wind_bullet1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "231b3df6-239e-4628-a0f2-c16202584238",
             "Value": {
                 "id": "9e3a3756-c0f8-423a-a872-22a06c94f207",
@@ -92,6 +100,22 @@
                 "id": "6ea51758-3e87-403f-ae41-c7907b693c01",
                 "resourcePath": "views\\321e2209-37a2-40e5-98c2-667bc941b878.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35615fa6-d407-413c-b25f-a6ff7398418a",
+            "Value": {
+                "id": "722eac87-7443-4f06-8ea6-89eb67fdd3a1",
+                "resourcePath": "sprites\\enemy1\\enemy1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3a8aaa4e-0294-4a1a-9142-630a4d1517ac",
+            "Value": {
+                "id": "9a998043-4c16-4775-ab43-72ce60dc586c",
+                "resourcePath": "objects\\wind_man\\wind_man.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +172,14 @@
                 "id": "40d382a0-be14-425a-8b7e-76d9e37e0423",
                 "resourcePath": "views\\85c82920-60eb-4d2c-8a17-95af00e9b2fa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9482bfdf-1417-422b-870b-3467ff8871ea",
+            "Value": {
+                "id": "d26a1e7b-fa4b-4efd-9b55-a0e6394c5a1b",
+                "resourcePath": "objects\\wind_bullet\\wind_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {

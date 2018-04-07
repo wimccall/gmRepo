@@ -1,5 +1,5 @@
 {
-    "id": "d6280f15-52d6-4dd8-80fe-c5b61144a643",
+    "id": "9482bfdf-1417-422b-870b-3467ff8871ea",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "wind_bullet",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "97eb0a12-340f-4100-bc73-86c55aadf591",
+    "spriteId": "1c75cee3-753d-46c9-b38f-aaf3f92ad16d",
     "visible": true
 }
