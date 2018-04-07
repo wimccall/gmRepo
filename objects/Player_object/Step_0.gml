@@ -1,5 +1,8 @@
-wax = wax-.1;
-if wax < 0 {
+if wax >= 0 {
+	wax = wax-.1;
+}
+
+	if wax <= 0 {
 	instance_deactivate_object(Waxspwner)
 	if keyboard_check(vk_enter) {
 		room_restart();

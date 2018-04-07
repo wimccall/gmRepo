@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1cfba38a-c34c-4caf-adb1-cbe4789371be",
+            "Value": {
+                "id": "a6e5d5c1-e4fe-4223-baa1-6988cb04ab55",
+                "resourcePath": "objects\\Gamestart\\Gamestart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "231b3df6-239e-4628-a0f2-c16202584238",
             "Value": {
                 "id": "9e3a3756-c0f8-423a-a872-22a06c94f207",
@@ -100,14 +108,6 @@
                 "id": "54558a42-8676-4c53-bf2e-837758dac8f7",
                 "resourcePath": "objects\\Morewax_obj\\Morewax_obj.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "2604beb9-9a9d-4f6b-863e-947e6f4c3104",
-            "Value": {
-                "id": "677bdde9-8195-43c0-b633-912619b71629",
-                "resourcePath": "rooms\\Room2\\Room2.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -183,14 +183,6 @@
             }
         },
         {
-            "Key": "807a06c0-30d8-4852-9c93-50a92fcbd94e",
-            "Value": {
-                "id": "c4203091-cc99-4e6a-8544-308811176e00",
-                "resourcePath": "objects\\Waxbarobj\\Waxbarobj.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "848ef3f0-2765-4886-bf60-1c6a24041635",
             "Value": {
                 "id": "05b916ca-139f-4746-b1b2-72aa87b33a77",
@@ -204,6 +196,14 @@
                 "id": "40d382a0-be14-425a-8b7e-76d9e37e0423",
                 "resourcePath": "views\\85c82920-60eb-4d2c-8a17-95af00e9b2fa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "901002fb-4d18-42a4-a097-8554a9531b70",
+            "Value": {
+                "id": "a4a84688-5ccc-41cf-8e2d-c8dba91c7512",
+                "resourcePath": "fonts\\Gameplayfont\\Gameplayfont.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -239,14 +239,6 @@
             }
         },
         {
-            "Key": "baa8a6ee-f4e9-4b90-87d1-d2bbf2584a14",
-            "Value": {
-                "id": "3558fb6c-c1f9-4ff1-937f-791260459345",
-                "resourcePath": "rooms\\room0\\room0.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7ec7f823-c490-4c7b-a349-550657409058",
@@ -268,6 +260,14 @@
                 "id": "d7a41d3e-5147-48a4-915b-43eb49e63c43",
                 "resourcePath": "sprites\\Morewax_sprite\\Morewax_sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e0e7ec03-6b72-44d2-aa71-6b29d7582832",
+            "Value": {
+                "id": "2562f787-25a6-4047-9f2a-f8828022f5b6",
+                "resourcePath": "rooms\\Gamestartroom\\Gamestartroom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

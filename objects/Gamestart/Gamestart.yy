@@ -1,18 +1,28 @@
 {
-    "id": "807a06c0-30d8-4852-9c93-50a92fcbd94e",
+    "id": "1cfba38a-c34c-4caf-adb1-cbe4789371be",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Waxbarobj",
+    "name": "Gamestart",
     "eventList": [
         {
-            "id": "dbe74a7c-7312-4347-bd97-477aabd637f8",
+            "id": "51e684cc-3457-4de8-972c-bbbbf3590d36",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "807a06c0-30d8-4852-9c93-50a92fcbd94e"
+            "eventtype": 8,
+            "m_owner": "1cfba38a-c34c-4caf-adb1-cbe4789371be"
+        },
+        {
+            "id": "286caca1-16c3-46ea-835b-6187d538b26a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 13,
+            "eventtype": 9,
+            "m_owner": "1cfba38a-c34c-4caf-adb1-cbe4789371be"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
