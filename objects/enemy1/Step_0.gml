@@ -18,6 +18,6 @@ else {
 	inst = instance_create_depth(x, y, -1000, wind_bullet);
 	with(inst){
 		speed = other.shoot_speed;
-		direction = other.image_angle;
+		direction = (other.image_angle + 180) % 360;
 	}
 }
