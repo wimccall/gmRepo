@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "027ebbaa-55ae-4281-9ac8-f25e7886fee2",
+            "Value": {
+                "id": "37a6ab55-179e-4f76-b994-d1f4a0226bd4",
+                "resourcePath": "objects\\object1\\object1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b8f92b1-c114-4f37-b666-ac6eb26ae7e7",
             "Value": {
                 "id": "ca67e71b-886f-455b-8040-6bbbbc3db702",
@@ -79,11 +87,19 @@
             }
         },
         {
+<<<<<<< HEAD
+            "Key": "3a8aaa4e-0294-4a1a-9142-630a4d1517ac",
+            "Value": {
+                "id": "b56cf253-992c-48ab-a74f-b8263b043c58",
+                "resourcePath": "objects\\enemy1\\enemy1.yy",
+                "resourceType": "GMObject"
+=======
             "Key": "3c63df6d-880c-4d1c-8a3a-22394fc341fd",
             "Value": {
                 "id": "f66da1c5-f136-4134-b2c8-539e6ec3ac64",
                 "resourcePath": "sprites\\flame_sprite\\flame_sprite.yy",
                 "resourceType": "GMSprite"
+>>>>>>> c29a383462816cff60dafd98fe5276b7e82973c3
             }
         },
         {
@@ -164,6 +180,22 @@
                 "id": "7ec7f823-c490-4c7b-a349-550657409058",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d6280f15-52d6-4dd8-80fe-c5b61144a643",
+            "Value": {
+                "id": "c6fe2fde-03c0-48b2-9861-1b43ce65cdab",
+                "resourcePath": "objects\\wind_bullet\\wind_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ecf7646b-29a0-47a5-a6b2-a90731f1f2cd",
+            "Value": {
+                "id": "c6ea9787-60bd-45aa-a28a-56e8fa09dba0",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
