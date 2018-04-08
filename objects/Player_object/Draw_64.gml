@@ -7,3 +7,9 @@ if (bHasFreezeAbility) {
 	draw_sprite(freezetimeHUD, freezetimeHUD, 100, 650);
 }
 
+if instance_exists(yellowtriggerdown) {
+	draw_sprite(ShootgunHUD, ShootgunHUD, 1200, 650);
+	draw_text(1100, 550, "Left click to shoot")
+}
+
+	

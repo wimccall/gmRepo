@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "2caaf659-740b-41e0-b59b-e739ef4038da",
+            "Value": {
+                "id": "3de1b7b0-0293-48d2-aee0-711b95203166",
+                "resourcePath": "sprites\\ShootgunHUD\\ShootgunHUD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "321e2209-37a2-40e5-98c2-667bc941b878",
             "Value": {
                 "id": "6ea51758-3e87-403f-ae41-c7907b693c01",
