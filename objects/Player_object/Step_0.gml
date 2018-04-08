@@ -1,3 +1,4 @@
+// wax management
 if wax >= 0 { 
 	wax = wax-.1;
 }
@@ -18,6 +19,17 @@ else
 image_xscale = wax/25;
 image_yscale = wax/25;
 
+// creeping doubt spawn
+
 if Triggersgot >= 1
 	objectSpawner.bSpawnCreepingDoubt = true;
+	
+// yellow trigger activate
+
+if instance_exists(yellowtriggerdown) {
+	if (!instance_exists(Gunobj)) { 
+		instance_create_depth(x, y, -1000, Gunobj)
+	}
+}
+
 	

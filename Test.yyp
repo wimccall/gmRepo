@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "339e1e53-8905-47b3-b0c6-fe15957a0269",
+            "Value": {
+                "id": "30ba0f0a-7ce5-4c42-9cf6-d4d0a9352a90",
+                "resourcePath": "objects\\Gunobj\\Gunobj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "35615fa6-d407-413c-b25f-a6ff7398418a",
             "Value": {
                 "id": "722eac87-7443-4f06-8ea6-89eb67fdd3a1",
@@ -276,6 +284,14 @@
                 "id": "d26a1e7b-fa4b-4efd-9b55-a0e6394c5a1b",
                 "resourcePath": "objects\\wind_bullet\\wind_bullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "972084d5-443c-46a2-83a1-848783bba040",
+            "Value": {
+                "id": "b7abca4a-641d-472b-86d3-00b73af4e357",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
