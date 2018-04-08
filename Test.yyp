@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "7ef6039f-91fe-43f6-abdb-2c124f41141a",
+            "Value": {
+                "id": "d5c94226-659f-4b5c-bc8a-4f599d3d374f",
+                "resourcePath": "sprites\\cooldownAvailable\\cooldownAvailable.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f9492ee-966b-4730-839f-46c41455fbe6",
             "Value": {
                 "id": "d8018644-95f2-4013-983c-85610ace0f23",

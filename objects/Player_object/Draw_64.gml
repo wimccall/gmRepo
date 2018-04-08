@@ -5,6 +5,7 @@ if wax <= 0
 	
 if (bHasFreezeAbility) {
 	draw_sprite(freezetimeHUD, freezetimeHUD, 100, 800);
-	draw_sprite_stretched(cooldownTimerSprite, cooldownTimerSprite, 50, 850, (500 - freeze_CD_timer) / 3, 10);
+	if (freeze_CD_timer > 0) draw_sprite_stretched(cooldownTimerSprite, cooldownTimerSprite, 25, 900, (freeze_cd_max - freeze_CD_timer) / 2, 10);
+	else draw_sprite_stretched(cooldownAvailable, cooldownAvailable, 25, 900, (freeze_cd_max - freeze_CD_timer) / 2, 10);
 }
 
