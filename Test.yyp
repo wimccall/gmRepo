@@ -191,17 +191,10 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "52c35513-42a5-4645-bfd0-1d8bba339961",
-            "Value": {
-                "id": "5dfb180e-a74e-4961-bd56-ecd665709b27",
-                "resourcePath": "sprites\\Triggerdownsprite\\Triggerdownsprite.yy",
-=======
             "Key": "6771f5fe-0b90-4f16-89e6-a63f87fd62f2",
             "Value": {
                 "id": "7e694bea-f9a0-4b4c-a795-bf6d4f809cbe",
                 "resourcePath": "sprites\\sprite7\\sprite7.yy",
->>>>>>> 177ce07d7af63721290802ba8bebef7dddfa1cfa
                 "resourceType": "GMSprite"
             }
         },
