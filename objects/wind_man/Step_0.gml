@@ -13,7 +13,7 @@ if (angleDif > 0) {
 
 if (shoot_timer > 0) shoot_timer -= 1;
 else {
-	shoot_timer = FRAMES_BETWEEN_SHOTS;
+	shoot_timer = random_range(FRAMES_BETWEEN_SHOTS - 5, FRAMES_BETWEEN_SHOTS + 5);
 	var inst = instance_create_depth(x, y, -1000, wind_bullet);
 	with(inst) {
 		speed = other.shoot_speed;
