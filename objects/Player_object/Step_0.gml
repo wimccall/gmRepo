@@ -3,7 +3,7 @@ if wax >= 0 {
 }
 
 	if wax <= 0 {
-	instance_deactivate_object(Waxspwner)
+	instance_deactivate_object(objectSpawner)
 	if keyboard_check(vk_enter) {
 		room_restart();
 	}
