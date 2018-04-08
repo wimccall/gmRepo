@@ -1,2 +1,2 @@
-Player_object.wax = Player_object.wax + 20;
+Player_object.wax = Player_object.wax + 10;
 instance_destroy(self);

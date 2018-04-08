@@ -1,4 +1,4 @@
-if wax >= 0 {
+if wax >= 0 { 
 	wax = wax-.1;
 }
 
