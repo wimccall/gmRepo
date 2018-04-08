@@ -1,0 +1,1 @@
+drawcountdown =  drawcountdown -1;

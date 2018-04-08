@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "b856c97e-f62e-4c51-86fc-4c8ada3fcd9e",
+            "Value": {
+                "id": "d625a284-b884-4b18-8d76-82cdfb8a5bbc",
+                "resourcePath": "sounds\\Winsound\\Winsound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "bdaf61a1-858a-4142-9f86-93b6d4509c56",
             "Value": {
                 "id": "bb83914c-2071-4b40-8720-fa50ec477dea",
