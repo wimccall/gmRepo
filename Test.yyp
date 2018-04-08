@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "75b7dd33-4357-408e-a1cd-4490a51636ad",
+            "Value": {
+                "id": "5ca95a55-15fe-4b48-9449-5a886eb56296",
+                "resourcePath": "sprites\\freezetimeHUD\\freezetimeHUD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7840aa8a-e408-4f87-8428-283e2a0edafe",
             "Value": {
                 "id": "9a638e34-fee7-4a5a-85c7-3a357f595082",
