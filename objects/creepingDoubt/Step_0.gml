@@ -11,3 +11,4 @@ if (angleDif > 0) {
 }
 
 motion_set(image_angle, walk_speed);
+

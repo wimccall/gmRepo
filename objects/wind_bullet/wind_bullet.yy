@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "wind_bullet",
     "eventList": [
-        
+        {
+            "id": "4d45a937-f94c-42e5-b593-01f4d408f1d6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9482bfdf-1417-422b-870b-3467ff8871ea"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

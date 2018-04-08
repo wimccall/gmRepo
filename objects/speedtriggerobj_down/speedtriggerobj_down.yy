@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "speedtriggerobj_down",
     "eventList": [
-        
+        {
+            "id": "8e877bdb-d936-4306-a06f-78037d41d97f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "3c223a33-bab1-43a3-940d-28dfe8cefc7a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "52c35513-42a5-4645-bfd0-1d8bba339961",
+    "spriteId": "ff94d1af-f8f2-4cf3-898c-893c7a5cd5bb",
     "visible": true
 }

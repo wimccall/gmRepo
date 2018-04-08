@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "3c25e0ce-ac4a-4540-a2d1-25560103226b",
-            "Value": {
-                "id": "99460c63-f358-4f68-94d4-ddc9d3577117",
-                "resourcePath": "objects\\speedTriggersobjup\\speedTriggersobjup.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "3c63df6d-880c-4d1c-8a3a-22394fc341fd",
             "Value": {
                 "id": "f66da1c5-f136-4134-b2c8-539e6ec3ac64",
@@ -287,6 +279,14 @@
             }
         },
         {
+            "Key": "b9d53094-e9d0-4f73-968d-be9ec4e6e26f",
+            "Value": {
+                "id": "078fc522-47b8-43f4-85a7-6630e67e0721",
+                "resourcePath": "objects\\speedtriggerobj_up\\speedtriggerobj_up.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7ec7f823-c490-4c7b-a349-550657409058",
@@ -348,6 +348,14 @@
                 "id": "957ec4f4-2e83-4e3c-9d73-2f24c636e3af",
                 "resourcePath": "views\\fe8a80ff-3a8a-4755-a277-b7794abb26d1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff94d1af-f8f2-4cf3-898c-893c7a5cd5bb",
+            "Value": {
+                "id": "33dff39c-a1a5-4ff2-9de8-9a38a2a86f7e",
+                "resourcePath": "sprites\\Triggerupsprite1\\Triggerupsprite1.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
