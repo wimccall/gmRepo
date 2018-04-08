@@ -3,7 +3,7 @@
 player = instance_find(Player_object, 0);
 
 // Fire event variables
-FRAMES_BETWEEN_SHOTS = 30;
+FRAMES_BETWEEN_SHOTS = 50;
 alarm_set(0, random_range(FRAMES_BETWEEN_SHOTS - 5, FRAMES_BETWEEN_SHOTS + 5));
 
 // Properties
