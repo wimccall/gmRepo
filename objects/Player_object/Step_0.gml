@@ -36,7 +36,7 @@ if instance_exists(yellowtriggerdown) {
 // win condition
 
 if Triggersgot = 3 {
-	room_goto_next()
+	instance_create_depth(1560,1177,-1000, Doorsobj)
 }
 
 	
