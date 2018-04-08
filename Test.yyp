@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "db91896a-f161-4ba2-85b2-7612a7cb1f96",
+            "Value": {
+                "id": "2193a68e-23fe-422f-9bc1-5eaab0d169db",
+                "resourcePath": "sprites\\purpletrigdownsprite\\purpletrigdownsprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e0e7ec03-6b72-44d2-aa71-6b29d7582832",
             "Value": {
                 "id": "2562f787-25a6-4047-9f2a-f8828022f5b6",
@@ -355,6 +363,14 @@
             "Value": {
                 "id": "23c994c9-0a36-473b-8a1b-3898968c9f08",
                 "resourcePath": "objects\\speedtriggerobj_up\\speedtriggerobj_up.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f047dbf0-9466-492e-9cfb-31f7bcf40452",
+            "Value": {
+                "id": "95fbe768-ab9d-4059-8760-e7284137f841",
+                "resourcePath": "objects\\purpletrigdown\\purpletrigdown.yy",
                 "resourceType": "GMObject"
             }
         },
