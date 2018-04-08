@@ -34,7 +34,7 @@
             "Key": "024177c6-354d-46ab-8032-ece1ebcd9b88",
             "Value": {
                 "id": "daf5749b-71cb-4ae0-aed2-d911f5b02f28",
-                "resourcePath": "objects\\Waxspwner\\Waxspwner.yy",
+                "resourcePath": "objects\\objectSpawner\\objectSpawner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -164,6 +164,14 @@
                 "id": "ba8a935c-9790-4c4f-a0d0-b67711532a5c",
                 "resourcePath": "views\\49e47679-a1c1-4573-a7f2-ac084fab9010.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6771f5fe-0b90-4f16-89e6-a63f87fd62f2",
+            "Value": {
+                "id": "7e694bea-f9a0-4b4c-a795-bf6d4f809cbe",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -300,6 +308,14 @@
                 "id": "2d0e2bd5-fcde-4f3c-893f-f7a3a0e78d11",
                 "resourcePath": "views\\f7078d13-7347-4dc0-b7cf-e54e4cef7633.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f725aeee-5e96-406f-81a1-ce24fa6d4c86",
+            "Value": {
+                "id": "d57e58d9-2ba4-4fd5-8cf7-69cf1154ddbe",
+                "resourcePath": "objects\\creepingDoubt\\creepingDoubt.yy",
+                "resourceType": "GMObject"
             }
         },
         {
