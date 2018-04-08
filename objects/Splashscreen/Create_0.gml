@@ -1,1 +1,1 @@
-alarm_set(0,180);
+alarm_set(0,100);

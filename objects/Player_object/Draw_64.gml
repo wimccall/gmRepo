@@ -9,3 +9,9 @@ if (bHasFreezeAbility) {
 	else draw_sprite_stretched(cooldownAvailable, cooldownAvailable, 25, 900, (freeze_cd_max - freeze_CD_timer) / 2, 10);
 }
 
+if instance_exists(yellowtriggerdown) {
+	draw_sprite(ShootgunHUD, ShootgunHUD, 1200, 650);
+	draw_text(1100, 550, "Left click to shoot")
+}
+
+	
