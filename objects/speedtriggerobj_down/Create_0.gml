@@ -1,0 +1,1 @@
+objectSpawner.bSpawnCreepingDoubt = true;
