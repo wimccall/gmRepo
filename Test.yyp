@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0422a6cf-26e9-452d-b73d-f01833e28059",
+            "Value": {
+                "id": "6ee3120d-8ed2-4554-bd6e-371ef079739e",
+                "resourcePath": "objects\\yellowtriggerdown\\yellowtriggerdown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12c310dd-7f1d-4e09-bba6-d61c7952bb0f",
             "Value": {
                 "id": "4b161c7a-4002-4524-a79c-91cd621d540f",
@@ -148,6 +156,14 @@
                 "id": "722eac87-7443-4f06-8ea6-89eb67fdd3a1",
                 "resourcePath": "sprites\\enemy1\\enemy1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "36a73326-8159-47eb-b2bb-65da6c14f649",
+            "Value": {
+                "id": "441b0fa9-4299-4bb0-92d6-9d326df8d80e",
+                "resourcePath": "objects\\yellowtriggerobj\\yellowtriggerobj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "c8485440-b217-4405-8227-e3b2c3d62f3f",
+            "Value": {
+                "id": "5868e1cb-ce99-4b33-ae64-85092ed9bdbf",
+                "resourcePath": "sprites\\yellowtrigersprite\\yellowtrigersprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7ec7f823-c490-4c7b-a349-550657409058",
@@ -324,6 +348,14 @@
                 "id": "2562f787-25a6-4047-9f2a-f8828022f5b6",
                 "resourcePath": "rooms\\Gamestartroom\\Gamestartroom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ebfa1cec-6556-4e7a-a8ae-5094b0998274",
+            "Value": {
+                "id": "23c994c9-0a36-473b-8a1b-3898968c9f08",
+                "resourcePath": "objects\\speedtriggerobj_up\\speedtriggerobj_up.yy",
+                "resourceType": "GMObject"
             }
         },
         {
