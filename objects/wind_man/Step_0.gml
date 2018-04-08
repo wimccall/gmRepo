@@ -1,4 +1,7 @@
 /// @description Turn towards the player
+if (global.frozen) {
+	exit;
+}
 var targetAngle = point_direction(id.x, id.y, player.x, player.y);
 targetAngle = (targetAngle + 180) % 360;
 var angleDif = angle_difference(image_angle, targetAngle);
