@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "7b0aaab6-3bc8-4fa4-a6ae-791b9032debd",
+            "Value": {
+                "id": "9111a2a9-1b91-4be2-8e79-70d0671c7dcf",
+                "resourcePath": "sprites\\cooldownTimerSprite\\cooldownTimerSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f9492ee-966b-4730-839f-46c41455fbe6",
             "Value": {
                 "id": "d8018644-95f2-4013-983c-85610ace0f23",

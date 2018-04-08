@@ -39,4 +39,8 @@ if Triggersgot = 3 {
 	instance_create_depth(1560,1177,-1000, Doorsobj)
 }
 
+if (freeze_CD_timer > 0) {
+	freeze_CD_timer -= 1;
+}
+
 	
