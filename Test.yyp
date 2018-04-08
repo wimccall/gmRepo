@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1300e1fa-9551-4ab6-be70-ada7475493f8",
+            "Value": {
+                "id": "456537f7-96c5-472c-8264-5e8ad7e5075a",
+                "resourcePath": "sprites\\Triggerupsprite\\Triggerupsprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "19586710-8a59-4cd2-bbc3-a5c28a4104d4",
             "Value": {
                 "id": "a66ad4d5-fab2-44a9-9935-477dd52aaffe",
@@ -151,6 +159,22 @@
             }
         },
         {
+            "Key": "3c223a33-bab1-43a3-940d-28dfe8cefc7a",
+            "Value": {
+                "id": "f11decfa-8cb8-4fec-8692-d1e8e6b2d922",
+                "resourcePath": "objects\\speedtriggerobj_down\\speedtriggerobj_down.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3c25e0ce-ac4a-4540-a2d1-25560103226b",
+            "Value": {
+                "id": "99460c63-f358-4f68-94d4-ddc9d3577117",
+                "resourcePath": "objects\\speedTriggersobjup\\speedTriggersobjup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c63df6d-880c-4d1c-8a3a-22394fc341fd",
             "Value": {
                 "id": "f66da1c5-f136-4134-b2c8-539e6ec3ac64",
@@ -164,6 +188,14 @@
                 "id": "ba8a935c-9790-4c4f-a0d0-b67711532a5c",
                 "resourcePath": "views\\49e47679-a1c1-4573-a7f2-ac084fab9010.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "52c35513-42a5-4645-bfd0-1d8bba339961",
+            "Value": {
+                "id": "5dfb180e-a74e-4961-bd56-ecd665709b27",
+                "resourcePath": "sprites\\Triggerdownsprite\\Triggerdownsprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -1,1 +1,1 @@
-room_restart()
+Player_object.wax = 0
