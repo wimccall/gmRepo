@@ -10,8 +10,8 @@ if (bHasFreezeAbility) {
 }
 
 if instance_exists(yellowtriggerdown) {
-	draw_sprite(ShootgunHUD, ShootgunHUD, window_get_width() - 300, window_get_height() - 250);
-	draw_text(window_get_width() - 350, window_get_height() - 200, "Left click to shoot")
+	draw_sprite(ShootgunHUD, ShootgunHUD, window_get_width() - 200, window_get_height() - 250);
+	draw_text(window_get_width() - 250, window_get_height() - 150, "Left click to shoot")
 }
 
 	
