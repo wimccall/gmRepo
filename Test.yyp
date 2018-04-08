@@ -279,14 +279,6 @@
             }
         },
         {
-            "Key": "b9d53094-e9d0-4f73-968d-be9ec4e6e26f",
-            "Value": {
-                "id": "078fc522-47b8-43f4-85a7-6630e67e0721",
-                "resourcePath": "objects\\speedtriggerobj_up\\speedtriggerobj_up.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7ec7f823-c490-4c7b-a349-550657409058",
