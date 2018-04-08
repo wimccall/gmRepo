@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "11c842ea-9bdc-41e6-8f7d-d47c133d36c1",
+            "Value": {
+                "id": "d8ea8f76-4212-4b06-b080-c959126e75e8",
+                "resourcePath": "sounds\\Gamestartsound\\Gamestartsound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "12c310dd-7f1d-4e09-bba6-d61c7952bb0f",
             "Value": {
                 "id": "4b161c7a-4002-4524-a79c-91cd621d540f",
@@ -236,6 +244,14 @@
                 "id": "ba8a935c-9790-4c4f-a0d0-b67711532a5c",
                 "resourcePath": "views\\49e47679-a1c1-4573-a7f2-ac084fab9010.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4b5063d5-de57-4b7a-b542-6f09cf27d66c",
+            "Value": {
+                "id": "a228b804-d51e-417c-b3df-e104378cba78",
+                "resourcePath": "sounds\\Gameplaysound\\Gameplaysound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
