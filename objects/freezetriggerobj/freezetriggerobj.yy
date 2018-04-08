@@ -2,7 +2,7 @@
     "id": "9074d954-f9f3-46ef-a9a9-ae05f11b321d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object11",
+    "name": "freezetriggerobj",
     "eventList": [
         {
             "id": "1f355680-1193-4ca5-942a-0b24f9138079",
