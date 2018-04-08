@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "5cc8853f-999e-46c1-a362-774cc7e0688b",
+            "Value": {
+                "id": "0e09aa5b-e358-4536-9788-4a0d563a9010",
+                "resourcePath": "sounds\\sound1\\sound1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6771f5fe-0b90-4f16-89e6-a63f87fd62f2",
             "Value": {
                 "id": "7e694bea-f9a0-4b4c-a795-bf6d4f809cbe",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "a7d8dfc7-5ead-47aa-8eb3-a84a4c045417",
+            "Value": {
+                "id": "9504b9c3-0219-4801-ac1a-5826218cbfe5",
+                "resourcePath": "sprites\\winscreensprite\\winscreensprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9aa1e32-fbff-487e-bb32-ed0347f07e93",
             "Value": {
                 "id": "4dc3190d-0f36-472a-aca0-ec1ac8a9c9b4",
@@ -324,6 +340,22 @@
                 "id": "3b2347c7-b43a-460e-aa7c-3facb54f4ac9",
                 "resourcePath": "sprites\\sprite5\\sprite5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bdaf61a1-858a-4142-9f86-93b6d4509c56",
+            "Value": {
+                "id": "bb83914c-2071-4b40-8720-fa50ec477dea",
+                "resourcePath": "objects\\winscreenobj\\winscreenobj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c0b0e8ae-f5e5-4ece-9cd2-7a75bc27a734",
+            "Value": {
+                "id": "c2d579d8-21e7-4bc1-bb5f-13cc24ac59fe",
+                "resourcePath": "sounds\\sound0\\sound0.yy",
+                "resourceType": "GMSound"
             }
         },
         {

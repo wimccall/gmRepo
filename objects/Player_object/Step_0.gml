@@ -4,6 +4,7 @@ if wax >= 0 {
 }
 
 	if wax <= 0 {
+		
 	if keyboard_check(vk_enter) {
 		room_restart();
 	}
@@ -30,6 +31,12 @@ if instance_exists(yellowtriggerdown) {
 	if (!instance_exists(Gunobj)) { 
 		instance_create_depth(x, y, -1000, Gunobj)
 	}
+}
+
+// win condition
+
+if Triggersgot = 3 {
+	room_goto_next()
 }
 
 	
