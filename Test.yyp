@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "9074d954-f9f3-46ef-a9a9-ae05f11b321d",
+            "Value": {
+                "id": "47fbff91-ef01-4561-9cb3-fe7627e2d41e",
+                "resourcePath": "objects\\object11\\object11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9482bfdf-1417-422b-870b-3467ff8871ea",
             "Value": {
                 "id": "d26a1e7b-fa4b-4efd-9b55-a0e6394c5a1b",
@@ -307,6 +315,14 @@
             "Value": {
                 "id": "d7a41d3e-5147-48a4-915b-43eb49e63c43",
                 "resourcePath": "sprites\\Morewax_sprite\\Morewax_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dab24016-177a-444b-8765-232b88d67fb6",
+            "Value": {
+                "id": "4ea5c610-05a6-4a73-b960-eb1aca2bf667",
+                "resourcePath": "sprites\\PurpleTrigger\\PurpleTrigger.yy",
                 "resourceType": "GMSprite"
             }
         },
