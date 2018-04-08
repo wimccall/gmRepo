@@ -3,7 +3,6 @@ if wax >= 0 {
 }
 
 	if wax <= 0 {
-	instance_deactivate_object(objectSpawner)
 	if keyboard_check(vk_enter) {
 		room_restart();
 	}
@@ -18,3 +17,7 @@ else
 
 image_xscale = wax/25;
 image_yscale = wax/25;
+
+if Triggersgot >= 1
+	objectSpawner.bSpawnCreepingDoubt = true;
+	

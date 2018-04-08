@@ -1,4 +1,5 @@
 wax = 50;
+Triggersgot = 0; 
 
 // Freeze ability
 bHasFreezeAbility = false;
