@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "4623ae36-4e6f-474e-a695-65339b783679",
+            "Value": {
+                "id": "1869ebc5-3942-4ad6-a3d4-378a2f2c98c9",
+                "resourcePath": "sprites\\yellowtriggerdownsprite\\yellowtriggerdownsprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49e47679-a1c1-4573-a7f2-ac084fab9010",
             "Value": {
                 "id": "ba8a935c-9790-4c4f-a0d0-b67711532a5c",
@@ -364,6 +372,14 @@
                 "id": "47fbff91-ef01-4561-9cb3-fe7627e2d41e",
                 "resourcePath": "objects\\freezetriggerobj\\freezetriggerobj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "926dc9cb-6d3f-43d3-9e19-dd2844c93f94",
+            "Value": {
+                "id": "fd0c4f04-7f4c-49d9-bfe3-fd75237b4abb",
+                "resourcePath": "sounds\\getwaxsound\\getwaxsound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
